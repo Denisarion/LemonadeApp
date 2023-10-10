@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лимонадик</string>
+    <string name="click_to_select_lemon">Сорви лимончик</string>
+    <string name="lemon_squeeze">Выжми лимночик!</string>
+    <string name="lemon_drink">Выпей лимонад, по-возможности</string>
+    <string name="lemon_empty_glass">Хочешь еще?</string>
+    <string name="squeeze_count">Выжато: %1$d раз, ВЫЖИМААААЙ!</string>
+    <plurals name="textView">
+        <item quantity="one">Осталось %d раз</item>
+        <item quantity="other">Осталось %d раза</item>
+    </plurals>
+
+</resources>
